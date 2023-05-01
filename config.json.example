@@ -1,0 +1,14 @@
+{
+    "victoriaMetrics": {
+        "hostname": "http://127.0.0.1:8428",
+        "username": "user",
+        "password": "pass"
+    },
+    "servers": [
+        {
+            "hostname": "192.168.1.2",
+            "username": "admin",
+            "password": "admin"
+        }
+    ]
+}
